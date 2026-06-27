@@ -1,3 +1,3 @@
 # Software-Validation-Lifecycle
 
-The show validation process
+QA Validation lifecycle documentation for a fictional Healthcare Case Management System.
